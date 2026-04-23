@@ -1,0 +1,3 @@
+repository=tcknvkn-angular
+visibility=public
+description=Angular için TC Kimlik No (TCKN) ve Vergi Kimlik No (VKN) doğrulama kütüphanesi
